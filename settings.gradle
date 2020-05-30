@@ -1,0 +1,2 @@
+rootProject.name='Aplicaciones-moviles-1'
+include ':app'

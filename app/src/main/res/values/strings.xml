@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">QueTalTuDia</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="pregunta"> ¿Que tal fue tu dia?</string>
+
+    <string name="respuesta1"> Excelente </string>
+    <string name="respuesta2"> Bueno </string>
+    <string name="respuesta3"> Malo </string>
+    <string name="respuesta4"> Pesimo </string>
+
+
+    <string name="btn_txt"> Enviar </string>
+
+
+
+    <string name="mensaje1"> ¡Que  buena noticias!</string>
+    <string name="mensaje2"> Seguro que mañana sera exelente</string>
+    <string name="mensaje3"> ¡Vamos que no deciaga </string>
+    <string name="mensaje4"> ¡Arriba ese animo! </string>
+
+
+</resources>
