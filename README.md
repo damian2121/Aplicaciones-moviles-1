@@ -1,4 +1,4 @@
-# Aplicacion-moviles-web
+# Aplicacion-moviles-Android
 
 ## Aplicación "¿Qué tal fue tu día?". Opcional.
 
